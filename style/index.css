@@ -1,0 +1,21 @@
+body {
+    background-color: blueviolet;
+    font-family:'Nunito', sans-serif;
+}
+.section-1 {
+    background: linear-gradient(180deg, red, orange) ;
+    color: white;
+    border:6px solid black;
+}
+.text-principal {
+    color: cadetblue;
+}
+.section-2 {
+    background-color: yellowgreen;
+    text-transform: uppercase;
+    text-align: center;
+    font-size: 80 px;
+}
+input {
+    border: none;
+}
